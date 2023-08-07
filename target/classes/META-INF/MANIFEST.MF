@@ -1,0 +1,59 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: cucumber-java-7.13.0.jar cucumber-core-7.13.0.jar cucumber-g
+ herkin-7.13.0.jar cucumber-gherkin-messages-7.13.0.jar gherkin-26.2.0.j
+ ar messages-22.0.0.jar tag-expressions-5.0.1.jar cucumber-expressions-1
+ 6.1.2.jar datatable-7.13.0.jar cucumber-plugin-7.13.0.jar docstring-7.1
+ 3.0.jar html-formatter-20.3.1.jar junit-xml-formatter-0.2.0.jar ci-envi
+ ronment-9.2.0.jar apiguardian-api-1.1.2.jar extentreports-5.0.4.jar rxj
+ ava-3.0.4.jar reactive-streams-1.0.3.jar freemarker-2.3.30.jar lombok-1
+ .18.12.jar gson-2.8.6.jar log4j-core-2.17.1.jar log4j-api-2.17.1.jar se
+ lenium-java-4.3.0.jar selenium-api-4.3.0.jar selenium-chrome-driver-4.3
+ .0.jar auto-service-annotations-1.0.1.jar auto-service-1.0.1.jar auto-c
+ ommon-1.2.jar guava-31.1-jre.jar failureaccess-1.0.1.jar listenablefutu
+ re-9999.0-empty-to-avoid-conflict-with-guava.jar jsr305-3.0.2.jar check
+ er-qual-3.12.0.jar error_prone_annotations-2.11.0.jar j2objc-annotation
+ s-1.3.jar selenium-chromium-driver-4.3.0.jar selenium-json-4.3.0.jar se
+ lenium-devtools-v101-4.3.0.jar selenium-devtools-v102-4.3.0.jar seleniu
+ m-devtools-v103-4.3.0.jar selenium-devtools-v85-4.3.0.jar selenium-edge
+ -driver-4.3.0.jar selenium-firefox-driver-4.3.0.jar selenium-ie-driver-
+ 4.3.0.jar selenium-opera-driver-4.3.0.jar selenium-remote-driver-4.3.0.
+ jar netty-buffer-4.1.78.Final.jar netty-codec-http-4.1.78.Final.jar net
+ ty-codec-4.1.78.Final.jar netty-handler-4.1.78.Final.jar netty-common-4
+ .1.78.Final.jar netty-transport-classes-epoll-4.1.78.Final.jar netty-tr
+ ansport-classes-kqueue-4.1.78.Final.jar netty-transport-native-epoll-4.
+ 1.78.Final.jar netty-transport-native-kqueue-4.1.78.Final.jar netty-tra
+ nsport-native-unix-common-4.1.78.Final.jar netty-transport-4.1.78.Final
+ .jar netty-resolver-4.1.78.Final.jar opentelemetry-api-1.15.0.jar opent
+ elemetry-context-1.15.0.jar opentelemetry-exporter-logging-1.15.0.jar o
+ pentelemetry-sdk-metrics-1.15.0.jar opentelemetry-sdk-logs-1.15.0-alpha
+ .jar opentelemetry-sdk-common-1.15.0.jar opentelemetry-sdk-extension-au
+ toconfigure-spi-1.15.0.jar opentelemetry-sdk-extension-autoconfigure-1.
+ 15.0-alpha.jar opentelemetry-sdk-trace-1.15.0.jar opentelemetry-sdk-1.1
+ 5.0.jar opentelemetry-semconv-1.15.0-alpha.jar jtoml-2.0.0.jar byte-bud
+ dy-1.12.10.jar commons-exec-1.3.jar async-http-client-2.12.3.jar async-
+ http-client-netty-utils-2.12.3.jar netty-codec-socks-4.1.60.Final.jar n
+ etty-handler-proxy-4.1.60.Final.jar netty-transport-native-epoll-4.1.60
+ .Final-linux-x86_64.jar netty-transport-native-kqueue-4.1.60.Final-osx-
+ x86_64.jar netty-reactive-streams-2.0.4.jar jakarta.activation-1.2.2.ja
+ r selenium-http-4.3.0.jar failsafe-3.2.4.jar selenium-safari-driver-4.3
+ .0.jar selenium-support-4.3.0.jar webdrivermanager-5.4.1.jar slf4j-api-
+ 2.0.7.jar docker-java-3.3.2.jar docker-java-core-3.3.2.jar docker-java-
+ api-3.3.2.jar jackson-annotations-2.10.3.jar commons-compress-1.21.jar 
+ jackson-databind-2.10.3.jar jackson-core-2.10.3.jar bcpkix-jdk15on-1.64
+ .jar bcprov-jdk15on-1.64.jar jcl-over-slf4j-1.7.30.jar docker-java-tran
+ sport-httpclient5-3.3.2.jar docker-java-transport-3.3.2.jar jna-5.12.1.
+ jar dec-0.1.2.jar commons-lang3-3.12.0.jar httpclient5-5.2.1.jar httpco
+ re5-5.2.jar httpcore5-h2-5.2.jar testng-7.4.0.jar jcommander-1.78.jar j
+ query-3.5.1.jar org.apache.commons.io-2.4.jar commons-io-2.4.jar extent
+ reports-cucumber7-adapter-1.9.2.jar extent-pdf-report-2.9.1.jar cucumbe
+ r-pdf-report-2.11.1.jar pdfbox-2.0.26.jar fontbox-2.0.26.jar xchart-3.8
+ .0.jar VectorGraphics2D-0.13.jar graphics2d-0.30.jar animated-gif-lib-1
+ .4.jar snakeyaml-1.28.jar table-layout-1.5.1.jar rest-assured-cucumber-
+ pdf-report-1.4.1.jar jsoup-1.15.3.jar klov-reporter-5.0.9.jar mongodb-d
+ river-3.6.4.jar mongodb-driver-core-3.6.4.jar bson-3.6.4.jar httpclient
+ -4.5.13.jar httpcore-4.4.13.jar commons-logging-1.2.jar commons-codec-1
+ .11.jar httpmime-4.5.13.jar htmlextentreporter-1.0.1.jar
+Main-Class: TestGroup.LoggingTest.YouTubeAdFree
+Created-By: Maven Integration for Eclipse
+
